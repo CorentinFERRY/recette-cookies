@@ -6,4 +6,9 @@
    - Beurrer une plaque allant au four et former les cookies sur la plaque.
    - Pour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés pour la cuisson.
    - Enfourner pour 10 minutes de cuisson.
+<<<<<<< HEAD
    - Vérifier la cuisson toutes les 3 minutes.
+=======
+
+Bon appetit ! 
+>>>>>>> c54a26e41d302a5e851dfe845ce26378294e54b3
