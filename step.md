@@ -8,4 +8,4 @@
    - Enfourner pour 10 minutes de cuisson.
    - Vérifier la cuisson toutes les 3 minutes.
 
-Bon appetit !
+Bon appetit ! Et bonne dégustation !
