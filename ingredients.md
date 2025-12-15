@@ -5,4 +5,4 @@
 - 150g de farine
 - 100g de chocolat noir
 - 1 cuillère à café de sel
-- 1 cuillère à café de levure
+- 1 cuillère à café de levure chimique
