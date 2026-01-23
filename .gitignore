@@ -18,6 +18,7 @@
 
 
 # Passwords files
-*.passwords-*
+*.passwords-local
+*.passwords-prod
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
