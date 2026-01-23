@@ -1,31 +1,21 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows
+# Created by https://www.toptal.com/developers/gitignore/api/linux
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux
 
-### Windows ###
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
+### Linux ###
+*~
 
-# Dump file
-*.stackdump
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
 
-# Folder config file
-[Dd]esktop.ini
+# KDE directory preferences
+.directory
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
 
-# Windows Installer files
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
 
-# Windows shortcuts
-*.lnk
 
 # Passwords files
 *.passwords-*
