@@ -1,4 +1,4 @@
-
+### Four
    - Détailler le chocolat en pépites
    - Découper les noix du Brésil en petit morceau.
    - Préchauffer le four à 180°C (thermostat 6).
@@ -10,4 +10,14 @@
    - Vérifier la cuisson toutes les 3 minutes.
    - Attention en sortant du four c'est CHAUD !
    - Toréfier les noix du Brésil.
+     
 Bon appetit ! Et bonne dégustation !
+
+### Air Fryer
+- Préchauffer l’air fryer à 180°C
+- Placer les cookies dans le panier de l’air fryer, en espaçant bien
+- Cuire pendant 8-10 minutes selon la taille
+- Laisser refroidir avant de servir
+_Bon appétit avec l’Air Fryer !_ 🍪
+
+
