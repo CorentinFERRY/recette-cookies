@@ -17,7 +17,6 @@
 .nfs*
 
 # Passwords files
-*.password-local*
-*.password-prod*
+
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
