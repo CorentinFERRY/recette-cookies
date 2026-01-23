@@ -1,8 +1,8 @@
-- 85 g de beurre mou
-- 1œuf
+- 85 g de beurre végétal
+- 150 g de compote de pommes
 - 85g de sucre
 - 1 sachet de sucre vanillé
-- 150g de farine
+- 150g de farine sans gluten
 - 100g de chocolat noir
 - 1 cuillère à café de sel
 - 1 cuillère à café de levure chimique
