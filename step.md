@@ -9,5 +9,5 @@
    - Enfourner pour 10 minutes de cuisson.
    - Vérifier la cuisson toutes les 3 minutes.
    - Attention en sortant du four c'est CHAUD !
-
+   - Toréfier les noix du Brésil.
 Bon appetit ! Et bonne dégustation !
