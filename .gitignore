@@ -16,9 +16,8 @@
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-
 # Passwords files
-*.passwords-local
-*.passwords-prod
+*.password-local
+*.password-prod
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
